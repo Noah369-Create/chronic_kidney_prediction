@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+seaborn
+plotly
+scikit-learn
+missingno
+catboost
+xgboost
+Flask
+dill
+data_augment
+# -e .
