@@ -1,1 +1,10 @@
 venv/
+augmented_data.csv
+kidney_disease.csv
+output_data.csv
+mynote.ipynb
+notebook.ipynb
+transform.py
+app_saved.py
+application.py
+

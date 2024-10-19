@@ -1,0 +1,6 @@
+[ 2024-10-19 11:16:53,309 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-19 11:16:53,339 ] 97 werkzeug - INFO -  * Debugger PIN: 717-954-048
+[ 2024-10-19 11:16:59,751 ] 97 werkzeug - INFO - 127.0.0.1 - - [19/Oct/2024 11:16:59] "GET /predictdata HTTP/1.1" 200 -
+[ 2024-10-19 11:17:01,209 ] 97 werkzeug - INFO - 127.0.0.1 - - [19/Oct/2024 11:17:01] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-10-19 11:19:11,440 ] 97 werkzeug - INFO - 127.0.0.1 - - [19/Oct/2024 11:19:11] "POST /predictdata HTTP/1.1" 200 -
+[ 2024-10-19 11:29:27,734 ] 97 werkzeug - INFO -  * Detected change in 'D:\\chronic_kidney_prediction\\app_saved.py', reloading

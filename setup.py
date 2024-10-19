@@ -17,7 +17,7 @@ def get_requirements(file_path:str)->List[str]:
     return requirements
 
 setup(
-name='mlproject',
+name='chronic_kidney_prediction',
 version='0.0.1',
 author='Akalu',
 author_email='ake.abrish@gmail.com',

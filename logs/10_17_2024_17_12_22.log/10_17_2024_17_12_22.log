@@ -1,0 +1,11 @@
+[ 2024-10-17 17:12:26,882 ] 27 root - INFO - Entered the data ingestion method or component
+[ 2024-10-17 17:12:26,891 ] 30 root - INFO - Read the dataset as dataframe
+[ 2024-10-17 17:12:26,904 ] 36 root - INFO - Train test split initiated
+[ 2024-10-17 17:12:26,926 ] 43 root - INFO - Ingestion of the data is completed
+[ 2024-10-17 17:12:26,936 ] 79 root - INFO - Read train and test data completed
+[ 2024-10-17 17:12:26,936 ] 81 root - INFO - Obtaining preprocessing object
+[ 2024-10-17 17:12:26,937 ] 55 root - INFO - Categorical columns: ['hypertension']
+[ 2024-10-17 17:12:26,937 ] 56 root - INFO - Numerical columns: ['blood_urea', 'white_blood_cell_count', 'blood_glucose_random', 'serum_creatinine', 'albumin']
+[ 2024-10-17 17:12:26,940 ] 94 root - INFO - Applying preprocessing object on training dataframe and testing dataframe.
+[ 2024-10-17 17:12:26,959 ] 106 root - INFO - Saved preprocessing object.
+[ 2024-10-17 17:12:26,960 ] 33 root - INFO - Split training and test input data

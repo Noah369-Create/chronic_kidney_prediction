@@ -1,0 +1,3 @@
+[ 2024-10-19 11:29:31,839 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-19 11:29:31,874 ] 97 werkzeug - INFO -  * Debugger PIN: 717-954-048
+[ 2024-10-19 11:29:51,246 ] 97 werkzeug - INFO -  * Detected change in 'D:\\chronic_kidney_prediction\\app.py', reloading
